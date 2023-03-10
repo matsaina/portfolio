@@ -1,0 +1,17 @@
+Introduction:
+Hi, my name is Mathew Kipkoech, and I am a software engineer with a strong proficiency in PHP. I am currently pursuing a course in software engineering at Moringa School, where I am learning new and advanced skills in software development. As a problem solver, I am always on the lookout for new challenges and love learning new things.
+
+Technical Skills:
+As a software engineer, I have strong technical skills in PHP, which is one of the most popular programming languages for web development. I am proficient in PHP frameworks like Laravel, which I use to build web applications quickly and efficiently. Additionally, I have experience in front-end development, including HTML, CSS, and JavaScript.
+
+Problem-Solving Skills:
+My passion for coding problems has honed my problem-solving skills, which are essential in software development. I enjoy tackling complex coding problems, breaking them down into smaller parts, and developing efficient solutions to deliver high-quality results. I have experience in debugging and testing code, ensuring that it meets the required standards.
+
+Teamwork Skills:
+As a software engineer, I understand the importance of teamwork in achieving project goals. I work well in a team environment, collaborating with other developers, project managers, and stakeholders to deliver projects on time and within budget. I have excellent communication skills, which are essential in conveying ideas and understanding project requirements.
+
+Hobbies:
+Apart from software development, I enjoy solving coding problems in my free time. I participate in online coding challenges, which help me keep up-to-date with the latest trends and technologies in software development. I also enjoy reading books and articles about technology, which broaden my knowledge and understanding of different programming concepts.
+
+Conclusion:
+As a software engineer proficient in PHP, with a passion for problem-solving and a thirst for learning new things, I am confident that I can bring value to any software development project. My technical skills, problem-solving abilities, teamwork skills, and hobbies make me a well-rounded and competent software engineer who is always eager to learn and grow.
